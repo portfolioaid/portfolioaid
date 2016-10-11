@@ -1,0 +1,30 @@
+<footer id="main-footer">
+
+<div class="container">
+<div id="footer-widgets" class="clearfix">
+<div class="footer-widget"><b>Porfolio Aid Inc.</b><br>
+<span style='font-size: small; line-height: 1 !important;'>166 Pearl Street, Unit 200<br>
+Toronto, ON<br>
+M5H 1L3<br>
+<a style='color: white;' href="mailto:info@portfolioaid.com">info@portfolioaid.com</a><br>
++1 416 479 9710</span></div> <!-- end .footer-widget -->
+<div class="footer-widget"><b>Solutions</b><br>
+<span style='font-size: small;'><a style='color: white;' href="/solutions/investment-dealers.html">Investment dealers</a><br>
+<a style='color: white;' href="/solutions/securities-regulators.html">Securities regulators</a></span></div> <!-- end .footer-widget -->
+<div class="footer-widget"><b>Products</b><br>
+<span style='font-size: small;'><a style='color: white;' href="/portfolio-of-products/portfolioaid360.html">PortfolioAid 360°</a><br>
+<a style='color: white;' href="/portfolio-of-products/pos360.html">POS360°<br>
+<a style='color: white;' href="/portfolio-of-products/advisor360.html">Advisor360°</a><br>
+<a style='color: white;' href="/portfolio-of-products/branch360.html">Branch360°</a></span></div> <!-- end .footer-widget -->
+<div class="footer-widget last"><b><a style='color: white;' href="/company/privacy-policy.html">Privacy</a></b></div> <!-- end .footer-widget -->
+</div> <!-- #footer-widgets -->
+</div>  <!-- .container -->
+
+
+<div id="footer-bottom">
+<div class="container clearfix">
+<p id="footer-info"></p>
+</div>  <!-- .container -->
+</div>
+</footer> <!-- #main-footer -->
+
